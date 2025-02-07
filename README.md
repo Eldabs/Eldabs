@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Formada em Técnico em Desenvolviemnto de Sistemas e estudante de Ciência de Dados em busca de novos desafios. Sou uma pessoa detalhista, sempre atenta aos mínimos aspectos para garantir qualidade e precisão. Movida pela curiosidade, adoro explorar novos conhecimentos e buscar soluções inovadoras. Minha criatividade me permite pensar fora da caixa, transformando ideias em projetos de qualidade.✨
+Formada em Técnico em Desenvolviemnto de Sistemas e estudante de Ciência de Dados em busca de novos desafios. Sou detalhista, sempre atenta aos mínimos aspectos para garantir qualidade e precisão. Movida pela curiosidade, adoro explorar novos conhecimentos e buscar soluções inovadoras. Minha criatividade me permite pensar fora da caixa, transformando ideias em projetos de qualidade.✨
 </p>
 
 
